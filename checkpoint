@@ -1,2 +1,0 @@
-model_checkpoint_path: "my_weights.hf"
-all_model_checkpoint_paths: "my_weights.hf"
